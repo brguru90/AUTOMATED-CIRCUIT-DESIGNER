@@ -1,0 +1,38 @@
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.exe
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.pdb
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.Form1.resources
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.Properties.Resources.resources
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csproj.GenerateResource.Cache
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\bin\Debug\test_LD.exe
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\bin\Debug\test_LD.pdb
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.Form2.resources
+C:\Users\Guruprasad BR\documents\visual studio 2010\Projects\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csprojResolveAssemblyReference.cache
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\bin\Debug\test_LD.exe
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\bin\Debug\test_LD.pdb
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csprojResolveAssemblyReference.cache
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.Form1.resources
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.Form2.resources
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.Properties.Resources.resources
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csproj.GenerateResource.Cache
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csproj.CoreCompileInputs.cache
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.exe
+C:\Users\Guruprasad BR\Documents\Visual Studio 2017\Projects\test_LD\test_LD\obj\x86\Debug\test_LD.pdb
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\obj\x86\Debug\test_LD.exe
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\obj\x86\Debug\test_LD.pdb
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\bin\Debug\test_LD.exe
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\bin\Debug\test_LD.pdb
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csprojResolveAssemblyReference.cache
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\obj\x86\Debug\test_LD.Form1.resources
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\obj\x86\Debug\test_LD.Form2.resources
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\obj\x86\Debug\test_LD.Properties.Resources.resources
+C:\Users\Guruprasad BR\Desktop\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csproj.GenerateResource.Cache
+E:\desktop\test_LD\test_LD\obj\x86\Debug\test_LD.exe
+E:\desktop\test_LD\test_LD\obj\x86\Debug\test_LD.pdb
+E:\desktop\test_LD\test_LD\bin\Debug\test_LD.exe
+E:\desktop\test_LD\test_LD\bin\Debug\test_LD.pdb
+E:\desktop\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csprojResolveAssemblyReference.cache
+E:\desktop\test_LD\test_LD\obj\x86\Debug\test_LD.Form1.resources
+E:\desktop\test_LD\test_LD\obj\x86\Debug\test_LD.Form2.resources
+E:\desktop\test_LD\test_LD\obj\x86\Debug\test_LD.Properties.Resources.resources
+E:\desktop\test_LD\test_LD\obj\x86\Debug\Guruprasad_LD.csproj.GenerateResource.Cache
+E:\desktop\test_LD\test_LD\obj\x86\Debug\test_LD.about.resources
